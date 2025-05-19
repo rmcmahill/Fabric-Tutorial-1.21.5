@@ -19,10 +19,10 @@
 			"net.rowdoge.tutorialmod.Tutorialmod"
 		],
 		"fabric-datagen": [
-			"net.rowdoge.tutorialmod.TutorialmodDataGenerator"
+			"net.rowdoge.tutorialmod.TutorialModDataGenerator"
 		],
 		"client": [
-			"net.rowdoge.tutorialmod.TutorialmodClient"
+			"net.rowdoge.tutorialmod.TutorialModClient"
 		]
 	},
 	"mixins": [
